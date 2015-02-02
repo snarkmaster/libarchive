@@ -1,0 +1,10 @@
+test_patterns
+
+tar/test/test_patterns.c:186: File should exist: tmp/file01
+tar/test/test_patterns.c:186: File should exist: tmp/server/share/file15
+tar/test/test_patterns.c:186: File should exist: tmp/server/share/file18
+tar/test/test_patterns.c:186: File should exist: tmp/file21
+tar/test/test_patterns.c:186: File should exist: tmp/server\share\file35
+tar/test/test_patterns.c:186: File should exist: tmp/server\share\file38
+tar/test/test_patterns.c:186: File should exist: tmp/server\share\file52
+tar/test/test_patterns.c:186: Summary: Failed 7 times

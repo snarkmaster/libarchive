@@ -1,0 +1,7 @@
+bsdtar: Removing leading '/' from member names
+../.fifile06: Path contains '..'
+../file17: Path contains '..'
+../file20: Path contains '..'
+../.fifile43: Path contains '..'
+../file54: Path contains '..'
+bsdtar: Error exit delayed from previous errors.

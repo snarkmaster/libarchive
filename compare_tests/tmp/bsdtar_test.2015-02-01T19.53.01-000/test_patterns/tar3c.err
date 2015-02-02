@@ -1,0 +1,2 @@
+bsdtar: ./tmp/foo/bar: Not found in archive
+bsdtar: Error exit delayed from previous errors.

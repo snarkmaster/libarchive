@@ -1,0 +1,8 @@
+test_leading_slash
+
+tar/test/test_leading_slash.c:34: File should exist: foo/file
+tar/test/test_leading_slash.c:35: File doesn't exist: foo/file
+tar/test/test_leading_slash.c:36: File doesn't exist: foo/hardlink
+tar/test/test_leading_slash.c:37: File should exist: foo/file
+tar/test/test_leading_slash.c:37: Files foo/file and foo/hardlink are not hardlinked
+tar/test/test_leading_slash.c:37: Summary: Failed 2 times
